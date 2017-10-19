@@ -1,2 +1,3 @@
 # training
-#coucou les gens !
+coucou les gens !
+
