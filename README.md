@@ -1,2 +1,3 @@
 # training
-le bolos was here too
+coucou les gens !
+
